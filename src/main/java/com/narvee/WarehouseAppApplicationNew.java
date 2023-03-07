@@ -18,7 +18,7 @@ public class WarehouseAppApplicationNew {
 		logger.debug("loading index page..");
 		logger.warn("WARN level message!!");
 		logger.error("ERROR level message !!");
-
+System.out.println("newly updated");
 		SpringApplication.run(WarehouseAppApplicationNew.class, args);
 	}
 	
