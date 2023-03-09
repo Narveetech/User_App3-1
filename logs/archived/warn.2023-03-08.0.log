@@ -1,0 +1,9 @@
+2023-03-08 11:03:12,296 WARN  WarehouseAppApplicationNew:19 - [] WARN level message!!
+2023-03-08 11:03:12,301 ERROR WarehouseAppApplicationNew:20 - [] ERROR level message !!
+2023-03-08 11:03:12,908 WARN  WarehouseAppApplicationNew:19 - [] WARN level message!!
+2023-03-08 11:03:12,913 ERROR WarehouseAppApplicationNew:20 - [] ERROR level message !!
+2023-03-08 11:04:06,080 ERROR EmpController:39 - [] Employee object saved successfully
+2023-03-08 18:45:11,890 WARN  WarehouseAppApplicationNew:19 - [] WARN level message!!
+2023-03-08 18:45:11,891 ERROR WarehouseAppApplicationNew:20 - [] ERROR level message !!
+2023-03-08 18:45:12,335 WARN  WarehouseAppApplicationNew:19 - [] WARN level message!!
+2023-03-08 18:45:12,336 ERROR WarehouseAppApplicationNew:20 - [] ERROR level message !!
